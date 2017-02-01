@@ -3,5 +3,5 @@ Group Members.
 | Name             | Email           | Github Username  |
 | -----------------|:---------------:| ----------------:|
 | Valliyil SaiKiran| valliyilmenon@gmail.com | Valliyilmenon |
-| col 2 is      | centered      |   $12 |
+| kattreddy, Madhuchirra Reddy| madhureddykp477@gmail.com | madhureddykp477 |
 
