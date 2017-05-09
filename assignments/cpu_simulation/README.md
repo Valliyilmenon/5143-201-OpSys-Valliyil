@@ -15,6 +15,7 @@ Code attributed to members of the team.
 ---------------------------------------
 
 Valliyil Saikiran:
+-----------------
 
 - Worked and developed the Semaphores (The most challenging part for us)
 - integreated all other existing methods developed by team members to work with semaphore module created.
@@ -23,6 +24,7 @@ Valliyil Saikiran:
 - Cameup with most of the project implementation idea.
 
 Singh Swati:
+------------
 
 - Worked on the implementation of the I/O 
 - Ensured the I/O process worked as it should be.
@@ -32,6 +34,7 @@ Singh Swati:
 - created team pie chart
 
 Tinubu Helix:
+-------------
 
 - Worked on the first part of simulation of the project (processes) excluding the I/O and Semaphores.
 - Ensured the project worked well with the reading in of procces from textfile, populating the job scheduling queue with processes.
