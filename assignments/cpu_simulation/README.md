@@ -1,4 +1,5 @@
 Readme file for team 10.
+---------------------------
 
 Team Information:
 
