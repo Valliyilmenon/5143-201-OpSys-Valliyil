@@ -49,25 +49,41 @@ Files in the project.
 		__init__.py
 		
 		accounting.py
+		
 		clock.py
+		
 		cpu.py
+		
 		fifo.py
+		
 		memory.py
+		
 		semaphore.py
+		
 		my_semaphore.py
+		
 		process.py
+		
 		run_all.py
+		
 		sim_components.py
+		
 		status_list.py
 		
 	* Input_data Folder
 		
 		jobs_in_a.txt
+		
 		jobs_in_b.txt
+		
 		jobs_in_c.txt
+		
 		jobs_out_a.txt
+		
 		jobs_out_b.txt
+		
 		jobs_out_c.txt
+		
 		processes.txt
 	
 	* simulation.py(actual driver of the program)
