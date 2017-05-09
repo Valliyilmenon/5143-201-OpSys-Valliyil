@@ -90,6 +90,7 @@ Files in the project.
 	* simulation.py(actual driver of the program)
 	* Readme.md textfile.
 
+Time each team member spent working on project.
 ---------------------------
 It took the team over a week to finish the project. Each individual had to work separately and constantly trying to merge
 each portion of the code to the existing snippets available so as to be sure it works correctly with other parts.
