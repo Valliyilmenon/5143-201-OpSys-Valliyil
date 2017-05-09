@@ -47,6 +47,7 @@ Files in the project.
 	* Components Folder
 	
 		__init__.py
+		
 		accounting.py
 		clock.py
 		cpu.py
